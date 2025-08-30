@@ -163,7 +163,7 @@ const products = [
     {
         id: 17,
         name: "EPOSOFT",
-        price: 6500,
+        price: 16500,
         image: "Images/eposoft.jpg",
         category: "Skin Care",
         code: "ZIF-017",
