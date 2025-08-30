@@ -5,7 +5,7 @@ const CONTACT_CONFIG = {
     phone: "+255 792 614 180",
     whatsapp: "+255 792 614 180",
     email: "arvind@zifampinnacle.com.au",
-    company: "ZIFAM Tanzania",
+    company: "ZIFAM Pinnacle Tanzania",
     address: "Plot 123, Industrial Area",
     city: "Dar es Salaam",
     state: "Tanzania",

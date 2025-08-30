@@ -1,10 +1,10 @@
-# Zifam Tanzania - Pharmaceutical Products Website
+# Zifam Pinnacle Tanzania - Pharmaceutical Products Website
 
-A modern, responsive e-commerce website for Zifam Tanzania, showcasing pharmaceutical products with Tanzanian market pricing. Built for Arvind Pal, Country Manager at Zifam Pinnacle Australia.
+A modern, responsive e-commerce website for Zifam Pinnacle Tanzania, showcasing pharmaceutical products with Tanzanian market pricing. Built for Arvind Pal, Country Manager at Zifam Pinnacle Australia.
 
 ## 🎯 Project Overview
 
-This website serves as a digital catalog for Zifam's pharmaceutical product line, specifically tailored for the Tanzanian market. It features a clean, professional design with easy navigation and comprehensive product information.
+This website serves as a digital catalog for Zifam Pinnacle's pharmaceutical product line, specifically tailored for the Tanzanian market. It features a clean, professional design with easy navigation and comprehensive product information.
 
 ## ✨ Features
 
@@ -233,5 +233,5 @@ For technical support or questions about this website:
 
 ---
 
-**Built with ❤️ for Zifam Tanzania**  
+**Built with ❤️ for Zifam Pinnacle Tanzania**  
 *Empowering healthcare through digital innovation*

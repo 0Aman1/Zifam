@@ -144,7 +144,7 @@ const products = [
         id: 15,
         name: "ZIMAG",
         price: 12000,
-        image: "Images/zimag.jpg",
+        image: "Images/zimag.png",
         category: "Magnesium Supplement",
         code: "ZIF-015",
         dosage: "1-2 tablets daily",
@@ -203,7 +203,7 @@ function getImagePath(productName) {
         'IMUNOR': 'Images/imunor.jpg',
         'VITRUM': 'Images/vitrum.jpg',
         'CEE ORANGE': 'Images/cee-orange.jpg',
-        'ZIMAG': 'Images/zimag.jpg',
+        'ZIMAG': 'Images/zimag.png',
         'CINCRO': 'Images/cincro.jpg',
         'EPOSOFT': 'Images/eposoft.jpg'
     };
