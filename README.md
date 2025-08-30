@@ -5,6 +5,7 @@ A modern, responsive e-commerce website for Zifam Pinnacle Tanzania, showcasing 
 ## 🎯 Project Overview
 
 This website serves as a digital catalog for Zifam Pinnacle's pharmaceutical product line, specifically tailored for the Tanzanian market. It features a clean, professional design with easy navigation and comprehensive product information.
+Hosted on Nelify :https://zifamarvind.netlify.app/
 
 ## ✨ Features
 
