@@ -15,7 +15,7 @@ sr. no	PRODUCT NAME		PRICE (TSH)
 14	ZEE ORANGE			Tsh 32,000
 15	ZIMAG			Tsh 12,000
 16	CINCRO			Tsh 20,000
-17	EPOSOFT			Tsh 6,500
+17	EPOSOFT			Tsh 16,500
 
 All prices are in Tanzanian Shilling (Tsh)
 Currency format: Tsh XX,XXX with comma as thousand separator
