@@ -1,0 +1,28 @@
+# Contact Details for ZIFAM Tanzania
+# Update these details to change contact information across the website
+
+Country Manager: Arvind Pal
+Phone: +255 792 614 180
+WhatsApp: +255 792 614 180
+Email: arvind@zifampinnacle.com.au
+Company: ZIFAM Tanzania
+Location: Plot 123, Industrial Area, Dar es Salaam, Tanzania
+Business Hours: Monday - Saturday: 8:00 AM - 5:00 PM
+
+# Currency Format: Tanzanian Shilling (TSH) - Format: Tsh 10,000
+
+# Payment Methods:
+# - Cash on Delivery
+# - Bank Transfer (NBC, CRDB, NMB)
+# - Mobile Money (M-Pesa, Tigo Pesa, Airtel Money)
+# - Lipa Polepole (Halopesa, Tigo Pesa)
+
+# Delivery Information:
+# - Same day delivery in Dar es Salaam
+# - 1-2 days delivery to Arusha, Mwanza, Dodoma, Mbeya
+# - 2-3 days delivery to other regions
+# - International shipping to Kenya, Uganda, Rwanda, Zambia
+
+# Product Availability:
+# All products are in stock and ready for immediate delivery
+# Bulk orders available with special pricing

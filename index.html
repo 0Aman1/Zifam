@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zifam Pharmaceuticals - Premium Healthcare Products</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-section">
+                    <img src="Images/logo.jpg" alt="Zifam Logo" class="logo">
+                    <div class="company-info">
+                        <h1>Arvind Pal</h1>
+                        <p class="position">Country Manager - ZIFAM Tanzania</p>
+                        <p class="tagline">Premium Healthcare Products</p>
+                    </div>
+                </div>
+                <div class="contact-header">
+                    <div class="contact-info">
+                        <h3>Country Manager: Arvind Pal</h3>
+                        <div class="contact-links">
+                            <a href="tel:+255792614180" class="contact-btn phone-btn">
+                                <i class="fas fa-phone"></i>
+                                +255 792 614 180
+                            </a>
+                            <a href="https://wa.me/255792614180" class="contact-btn whatsapp-btn" target="_blank">
+                                <i class="fab fa-whatsapp"></i>
+                                WhatsApp
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h2>Discover Our Premium Healthcare Products</h2>
+                <p>Trusted pharmaceutical solutions for your health and wellness needs</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Product Gallery -->
+    <section class="products-section">
+        <div class="container">
+            <h2 class="section-title">Our Products</h2>
+            <div class="products-grid" id="productsGrid">
+                <!-- Products will be loaded dynamically -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Product Detail Modal -->
+    <div class="modal-overlay" id="productModal">
+        <div class="modal-content">
+            <button class="modal-close" id="closeModal">
+                <i class="fas fa-times"></i>
+            </button>
+            <div class="modal-body">
+                <div class="product-image-section">
+                    <img id="modalProductImage" src="" alt="">
+                </div>
+                <div class="product-details">
+                    <h3 id="modalProductName"></h3>
+                    <div class="price-section">
+                        <span class="price-label">Price:</span>
+                        <span class="price" id="modalProductPrice"></span>
+                    </div>
+                    <div class="product-info">
+                        <p><strong>Product Code:</strong> <span id="modalProductCode"></span></p>
+                        <p><strong>Category:</strong> <span id="modalProductCategory"></span></p>
+                        <p><strong>Dosage:</strong> <span id="modalProductDosage"></span></p>
+                        <p><strong>Description:</strong> <span id="modalProductDescription"></span></p>
+                    </div>
+                    <div class="action-buttons">
+                        <a href="tel:+255792614180" class="btn btn-primary">
+                            <i class="fas fa-phone"></i>
+                            Call Now
+                        </a>
+                        <a href="https://wa.me/255792614180" class="btn btn-secondary" target="_blank">
+                            <i class="fab fa-whatsapp"></i>
+                            WhatsApp
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Zifam Pharmaceuticals</h4>
+                    <p>Delivering quality healthcare products for a healthier tomorrow</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Us</h4>
+                    <p>Arvind Pal - Country Manager</p>
+                    <p>Phone: +255 792 614 180</p>
+                    <p><i class="fab fa-whatsapp"></i> +255 792 614 180</p>
+                    <p>Email: arvind@zifampinnacle.com.au</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Follow Us</h4>
+                    <div class="social-links">
+                        <a href="https://www.facebook.com/share/1BFLYvY5EC/" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Location</h4>
+                    <p><strong>Synermed Pharmaceuticals(Importer)</strong></p>
+                    <p>5776+72Q, Julius K. Nyerere Rd, Dar es Salaam, Tanzania</p>
+                    <a href="https://maps.app.goo.gl/1Jd44VBunAEGhYbY6?g_st=ipc" class="social-link" target="_blank" style="color: #1877f2; font-size: 24px; margin-top: 10px;">
+                        <i class="fas fa-map-marker-alt" title="View Location on Map"></i>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </footer>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+    <script>
+        // Load contact details when page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            loadContactFromFile();
+        });
+    </script>
+</body>
+</html>

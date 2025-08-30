@@ -1,0 +1,22 @@
+sr. no	PRODUCT NAME		PRICE (TSH)
+1	PROBIO			Tsh 14,000
+2	INFANT-D			Tsh 18,000
+3	URISOL			Tsh 18,500
+4	NATOCARE			Tsh 16,500
+5	NATOCARE PLUS		Tsh 19,000
+6	OZICAL			Tsh 15,500
+7	MENOFEM			Tsh 22,000
+8	AUZIFLORA			Tsh 17,700
+9	MEGA 3			Tsh 16,500
+10	SPECTRA-E			Tsh 20,000
+11	1000D			Tsh 10,500
+12	IMUNOR			Tsh 42,000
+13	VITRUM			Tsh 14,500
+14	ZEE ORANGE			Tsh 32,000
+15	ZIMAG			Tsh 12,000
+16	CINCRO			Tsh 20,000
+17	EPOSOFT			Tsh 6,500
+
+All prices are in Tanzanian Shilling (Tsh)
+Currency format: Tsh XX,XXX with comma as thousand separator
+Last updated: Tanzania market pricing
